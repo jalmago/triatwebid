@@ -1,11 +1,11 @@
 {
-  "name": "Eleventy Duo",
-  "description": "Eleventy Duo is a minimal and beautiful Eleventy theme for personal blogs.",
-  "url": "https://eleventyduo.netlify.app",
+  "name": "Sutriat",
+  "description": "triat's personal blog.",
+  "url": "https://triat.web.id",
   "author": {
-    "name": "Author Name",
-    "email": "author@site.com",
-    "twitterHandle": "author_handle"
+    "name": "Sutriat,
+    "email": "triat@kasep.net",
+    "twitterHandle": "_triat"
   },
   "defaultSocialImage": "/images/default-social-image.png",
   "headerLinks": [
@@ -15,25 +15,25 @@
       "external": false
     },
     {
-      "text": "About",
-      "url": "/about",
+      "text": "Tentang",
+      "url": "/tentang",
       "external": false
     }
   ],
   "socialLinks": [
     {
       "text": "Instagram",
-      "url": "https://instagram.com/",
+      "url": "https://instagram.com/_triat",
       "external": true
     },
     {
       "text": "GitHub",
-      "url": "https://github.com/yinkakun/eleventy-duo",
+      "url": "https://github.com/jalmago",
       "external": true
     },
     {
       "text": "Twitter",
-      "url": "https://twitter.com/",
+      "url": "https://twitter.com/_triat",
       "external": true
     }
   ],
@@ -44,5 +44,5 @@
       "external": true
     }
   ],
-  "showFooterAttribution": true
+  "showFooterAttribution": false
 }
