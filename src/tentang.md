@@ -1,6 +1,6 @@
 ---
 title: About Aidan Charles Powell
-layout: about.njk
+layout: tentang.njk
 name: Aidan Charles Powell
 image: '/images/me.jpeg'
 ---
