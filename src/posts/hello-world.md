@@ -1,11 +1,12 @@
 ---
-title: A simple post
-date: '2020-10-18'
-tags: [demo-content, simple-post]
+title: hello world
+date: '2022-04-03'
+tags: [blog, time-machine]
 description: Meditation gentrify fam, yuccie kickstarter brunch vape. Pitchfork freegan biodiesel bicycle rights. Semiotics flexitarian four loko XOXO raw denim chartreuse.
 permalink: posts/{{ title | slug }}/index.html
 ---
 
+Kurang lebih dua puluh tahun yang lalu, beberapa anak SMK 
 Meditation gentrify fam, yuccie kickstarter brunch vape. Pitchfork freegan biodiesel bicycle rights. Semiotics flexitarian four loko XOXO raw denim chartreuse. Cray ramps microdosing everyday carry bicycle rights
 
 ## How about a `<blockquote>`?
