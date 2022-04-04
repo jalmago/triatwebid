@@ -1,32 +1,17 @@
 ---
 title: hello world
 date: '2022-04-03'
-tags: [blog, time-machine]
-description: Meditation gentrify fam, yuccie kickstarter brunch vape. Pitchfork freegan biodiesel bicycle rights. Semiotics flexitarian four loko XOXO raw denim chartreuse.
+tags: [time-machine]
+description: Memulai itu untuk masa depan, tapi demi masa depan yang lebih baik kita harus belajar dari masa lalu.
 permalink: posts/{{ title | slug }}/index.html
 ---
 
-Kurang lebih dua puluh tahun yang lalu, beberapa anak SMK 
-Meditation gentrify fam, yuccie kickstarter brunch vape. Pitchfork freegan biodiesel bicycle rights. Semiotics flexitarian four loko XOXO raw denim chartreuse. Cray ramps microdosing everyday carry bicycle rights
+Kurang lebih dua puluh tahun yang lalu, beberapa anak SMK cukup beruntung mendapatkan akses lebih awal ke jaringan internet, lebih dulu dari masyarakat kebanyakan yang baru mendapatkan akses internet setelah berkembangnya mobile internet dan smartphone.
 
-## How about a `<blockquote>`?
+Anak-anak itu merupakan generasi milenial tertua, menjadi saksi dan pengguna evolusi teknologi web mulai dari generasi web 1.0, web 2.0, sampai hari ini masa lompatan generasi web 3.0 yang entah secara kebetulan bersamaan dengan pandemi COVID-19 atau memang pandemi ini yang memicu cepatnya penetrasi web 3.0.
 
-> Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae elit libero, a pharetra augue.
+Bagi sebagian anak-anak itu, yang mencoba 'exist' di ketiga generasi web tadi pengalamannya sangat berbeda. 
 
-## Unordered list of stuff:
+## Web 1.0
 
-- Sed posuere consectetur est at lobortis
-- Aenean lacinia bibendum nulla sed consectetur
-- Sed posuere consectetur est at lobortis
-
-## Ordered list:
-
-1. Sed posuere consectetur est at lobortis
-2. Aenean lacinia bibendum nulla sed consectetur
-3. Sed posuere consectetur est at lobortis
-
-Bitters bushwick schlitz, 3 wolf moon tofu hoodie beard bicycle rights truffaut keffiyeh sartorial.
-
-## Monospace Text wrapped in "pre" tags:
-
-<pre>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nullam dignissim convallis est. Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl.</pre>
+Untuk sekedar hadir di web, masa ini mungkin merupakan yang tersulit.
