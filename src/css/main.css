@@ -9,6 +9,15 @@
 @import 'post.css';
 @import 'about.css';
 
+@font-face {
+  font-family: 'Business Signature D';
+  src: url('BusinessSignatureDRegular.woff2') format('woff2'),
+      url('BusinessSignatureDRegular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
 .layout-wrapper {
   display: grid;
   grid-template-rows: auto minmax(0, 1fr) auto;
