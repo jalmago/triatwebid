@@ -1,7 +1,6 @@
 @font-face {
     font-family: 'Business Signature D';
-    src: url('BusinessSignatureDRegular.woff2') format('woff2'),
-        url('BusinessSignatureDRegular.woff') format('woff');
+    src: url('BusinessSignatureDRegular.woff2') format('woff2'), url('BusinessSignatureDRegular.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
