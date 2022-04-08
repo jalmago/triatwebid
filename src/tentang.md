@@ -1,5 +1,5 @@
 ---
-title: Tentang Sutriat
+title: Tentang
 layout: tentang.njk
 name: Sutriat
 image: '/images/me.jpeg'
