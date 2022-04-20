@@ -1,7 +1,7 @@
 @font-face {
-    font-family: 'Business Signature D';
-    src: url('BusinessSignatureDRegular.woff2') format('woff2'),
-        url('BusinessSignatureDRegular.woff') format('woff');
+    font-family: 'Astagina Signature';
+    src: url('AstaginaSignature.woff2') format('woff2'),
+        url('AstaginaSignature.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
