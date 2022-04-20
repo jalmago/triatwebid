@@ -21,7 +21,7 @@ body {
   font-variant-ligatures: contextual;
   -webkit-overflow-scrolling: touch;
   -webkit-text-size-adjust: 100%;
-  font-family: 'IBM Plex Sans', sans-serif;
+  font-family: 'Nunito', sans-serif;
 }
 
 h1,
@@ -57,4 +57,7 @@ h4 {
 
 p {
   font-size: var(--text-lg);
+}
+.post__content {
+  font-family: 'Noto Serif', serif;
 }

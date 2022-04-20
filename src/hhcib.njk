@@ -1,0 +1,24 @@
+--- 
+pagination:
+  data: collections
+  size: 1
+  alias: tag
+  filter:
+    - all
+    - nav
+    - post
+    - posts
+    - tagList
+  addAllPagesToCollections: true
+layout: base.njk 
+permalink: /tantangan/{{ tag }}/
+---
+
+<h1>How Hard Can It Be?</h1>
+
+<p>Seberapa sulitkah itu?</p> 
+<p>Kalau semua manusia pada dasarnya sama, sama-sama mempunyai akal dan pikiran, mengapa yang lain bisa melakukan suatu hal sedangkan yang lainnya tidak? Mungkin bedanya ada di pengetahuan, pengalaman, dan peluang. Tapi bukankah semua itu bisa dicari?</p>
+<p>Hal yang seolah sederhana bagi orang lain, kadang dipandang sulit bagi kita melakukannya. Pertanyaannya.... apakah memang sesulit itu? apa karena kita belum mencoba saja? Akan mencoba menantang diri sendiri melakukan hal yang orang lain bisa lakukan dimulai dari hal yang mudah dan sederhana tapi belum pernah mencoba.</p>
+
+{% set postslist = collections[tag] %}
+{% include "posts-list.njk" %}

@@ -1,5 +1,5 @@
 ---
-title: hello world
+title: Hello, World!
 date: '2022-04-03'
 tags: [time-machine]
 description: Memulai itu untuk masa depan, tapi demi masa depan yang lebih baik kita harus belajar dari masa lalu.
@@ -30,3 +30,12 @@ Hadirlah situs jejaring sosial, dimulai oleh Friendster, MySpace, Facebook, Twit
 
 ### Web 3.0
 
+Desentralisasi keuangan berbasis blockchain berupa hadirnya mata uang crypto, NFT, metaverse. Kita sedang menuju ke sana, lihat nani saja.
+
+### Hello, World!
+
+Karena ini postingan blog pertama, seperti memulai belajar bahasa pemrograman, maka:
+```
+// the hello world program
+console.log('Hello World');
+```
